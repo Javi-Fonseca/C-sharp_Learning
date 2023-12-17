@@ -1,0 +1,15 @@
+Errors meaning
+  error CS1009 : unrecognized escape sequence.
+    Console.WriteLine("A space between the bachslash \ an the special charater");
+  
+  error CS1003: Syntax error.
+    Console.WriteLine("a""b"); // ',' missing
+  
+  error CS0103: The name "( )" does not exist in the current context.
+    Console.Write(hello); // not keywords or variables declaratered.
+
+  error CS0117: 'Console' does not contain a definition for '()'.
+    Console.WriTeLIne(""); // WriTeLIne does not exist.
+
+  error CS8401: To use '@$' instead of '$@' for an interpolated verbatim string, 
+  please use language version 'preview' or greater.

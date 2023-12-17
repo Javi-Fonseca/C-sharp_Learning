@@ -1,0 +1,17 @@
+C-sharp tips:
+--Environment
+-Visual Studio Code provide tools that enable developers to observe 
+ the values of application variables while their code is running. 
+ Learning how to use those tools saves lots of time during 
+ development.
+
+--Tiping
+-Printing a tab fills variable length whitespace until a position
+ divisible by 4 is reached.
+-Use '()' arround the increment or decrement expression improve
+ readability.
+
+--Variables
+-Avoid creating intermediate variables for interpolation.
+-Casting a fractional value will never round up the result.
+-Use variables for avoid typos
