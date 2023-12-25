@@ -1,0 +1,37 @@
+    Call methods from .NET class library    2023.12.23
+The C# programming language is supplemented by a large library of
+functionality.
+For built a C# application you need: 
+.NET runtime, which hosts and manages the code as it executes on
+ the end user's computer.
+.NET class library, a prewritten collection of coding resources
+that can be used in applications.
+    
+    What is a .NET class Library?
+The .NET class library is a collection of thousands of classes con-
+taining tens of thousands of methods.
+A class is a conteiner of methods; is common keep related methods
+together in a single class.
+
+    Common classes and methods for:
+        -Built native desktop applications.
+        -Access a Database
+        -Dynamic web applications
+
+        -"System.Console" keeps methods that receive or send information for
+        a console window, like:
+            WriteLine()
+             Write()
+              ReadLine()
+              Read()
+
+    How to find?
+First of all, necessity will drive you to what you need.
+Use a search engine to find:
+    -Blogs
+    -Articles
+    -Forums
+    -Microsoft documentation
+
+Note: Even your data types are part of the .NET Class Library, 
+C# merely provides an alias for those data types.
